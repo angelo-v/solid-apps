@@ -18,6 +18,7 @@ List of apps built on the
 ## Sample/Tutorial Apps
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
+- [Profile viewer using solid/react-components](https://gitlab.com/angelo-v/solid-profile-viewer)
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
